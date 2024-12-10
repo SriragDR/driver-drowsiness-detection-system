@@ -1,0 +1,8 @@
+#this code uses haarcascades for the face detection and eye detection 
+#step 1: download idle 
+#step 2: download required module
+#open cmd and type the below code one by one
+pip install opencv-python
+pip install winsound
+pip install threading
+#store the haarcascades and the program in the same folder and then run it 
